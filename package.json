@@ -1,0 +1,28 @@
+{
+  "name": "pya.js",
+  "version": "0.0.5",
+  "description": "image manipulation using @napi-rs/canvas for discord.js bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NLyla/pya.js.git"
+  },
+  "keywords": [
+    "pya"
+  ],
+  "author": "NLyla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NLyla/pya.js/issues"
+  },
+  "homepage": "https://github.com/NLyla/pya.js#readme",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.44",
+    "undici": "^5.25.4"
+  },
+  "devDependencies": {}
+}
