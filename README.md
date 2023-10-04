@@ -1,6 +1,6 @@
 ## pya.js
 ```code 
-npm i pya-npm
+npm install pya.js
 ```
 After that, you only need to create options for the file, use the template below, to make it easier for you 
 
